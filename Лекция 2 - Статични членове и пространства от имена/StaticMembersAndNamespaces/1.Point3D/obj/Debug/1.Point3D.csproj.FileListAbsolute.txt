@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.exe.config
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.pdb

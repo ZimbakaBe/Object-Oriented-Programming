@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnvironmentSystem</name>
+    </assembly>
+    <members>
+        <member name="M:EnvironmentSystem.Core.Generator.ObjectGenerator.SeedInitialObjects">
+            <summary>
+            Adds objects only once to the passed collection. Should be used once.
+            </summary>
+            <param name="objects"></param>
+        </member>
+        <member name="M:EnvironmentSystem.Core.Generator.ObjectGenerator.GenerateNextObjects">
+            <summary>
+            Adds the next portion of objects to the passed collection. Can be used many times.
+            </summary>
+            <param name="objects"></param>
+        </member>
+        <member name="T:EnvironmentSystem.Interfaces.ICollidable">
+             <summary>
+             Check if the object is colliding with other object
+             </summary>
+             <code>    public interface ICollidable
+            {
+                Rectangle Bounds { get; }
+            
+                CollisionGroup CollisionGroup { get; }
+            
+                void RespondToCollision(CollisionInfo collisionInfo);
+            }</code>>
+        </member>
+    </members>
+</doc>

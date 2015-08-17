@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe.config
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.pdb
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.exe
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.pdb

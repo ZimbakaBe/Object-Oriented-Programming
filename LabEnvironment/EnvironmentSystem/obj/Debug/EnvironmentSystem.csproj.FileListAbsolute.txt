@@ -1,0 +1,7 @@
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb
+D:\SoftUni\ООП\LabEnvironment\EnvironmentSystem\bin\Debug\EnvironmentSystem.XML

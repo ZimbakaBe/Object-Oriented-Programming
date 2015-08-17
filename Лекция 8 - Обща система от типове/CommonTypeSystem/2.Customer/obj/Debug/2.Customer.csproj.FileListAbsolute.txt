@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\bin\Debug\2.Customer.exe.config
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\bin\Debug\2.Customer.exe
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\bin\Debug\2.Customer.pdb
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\obj\Debug\2.Customer.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\obj\Debug\2.Customer.exe
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\CommonTypeSystem\2.Customer\obj\Debug\2.Customer.pdb

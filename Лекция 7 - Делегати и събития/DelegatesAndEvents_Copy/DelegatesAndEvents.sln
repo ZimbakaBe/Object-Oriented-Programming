@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{FBE929EA-3D9C-4BA2-944E-DB6D47789A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustsomLinqExtMeth", "CustsomLinqExtMeth\CustsomLinqExtMeth.csproj", "{0216C661-821B-4667-A133-FF7ECD25818A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.InterestCalculator", "2.InterestCalculator\2.InterestCalculator.csproj", "{CDBCD2E9-70BC-4976-B1CA-A1B4E47C8265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AsynchronousTimer", "3.AsynchronousTimer\3.AsynchronousTimer.csproj", "{DC1AEAD3-D67E-4B90-BFB5-6BB4365E8402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.StudentClass", "4.StudentClass\4.StudentClass.csproj", "{0794C29C-F160-488F-ABD7-E022945E02EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.InterestCalculatorDelegate", "2.InterestCalculatorDelegate\2.InterestCalculatorDelegate.csproj", "{D55F1FCB-992C-407F-B45B-AE4FD595430D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE929EA-3D9C-4BA2-944E-DB6D47789A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE929EA-3D9C-4BA2-944E-DB6D47789A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE929EA-3D9C-4BA2-944E-DB6D47789A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE929EA-3D9C-4BA2-944E-DB6D47789A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0216C661-821B-4667-A133-FF7ECD25818A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0216C661-821B-4667-A133-FF7ECD25818A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0216C661-821B-4667-A133-FF7ECD25818A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0216C661-821B-4667-A133-FF7ECD25818A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBCD2E9-70BC-4976-B1CA-A1B4E47C8265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBCD2E9-70BC-4976-B1CA-A1B4E47C8265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBCD2E9-70BC-4976-B1CA-A1B4E47C8265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBCD2E9-70BC-4976-B1CA-A1B4E47C8265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1AEAD3-D67E-4B90-BFB5-6BB4365E8402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1AEAD3-D67E-4B90-BFB5-6BB4365E8402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1AEAD3-D67E-4B90-BFB5-6BB4365E8402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1AEAD3-D67E-4B90-BFB5-6BB4365E8402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0794C29C-F160-488F-ABD7-E022945E02EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0794C29C-F160-488F-ABD7-E022945E02EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0794C29C-F160-488F-ABD7-E022945E02EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0794C29C-F160-488F-ABD7-E022945E02EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55F1FCB-992C-407F-B45B-AE4FD595430D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55F1FCB-992C-407F-B45B-AE4FD595430D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55F1FCB-992C-407F-B45B-AE4FD595430D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55F1FCB-992C-407F-B45B-AE4FD595430D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

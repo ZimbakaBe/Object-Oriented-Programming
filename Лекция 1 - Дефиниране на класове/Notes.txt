@@ -1,0 +1,7 @@
+1. Access modifiers - public, private, internal, protected
+2. Static or specific
+3. Данните се държат в пропъртита и полета.
+
+
+
+

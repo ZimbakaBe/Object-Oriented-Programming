@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\bin\Debug\_2.FractionCalculator.exe.config
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\obj\Debug\2. FractionCalculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\bin\Debug\_2.FractionCalculator.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\bin\Debug\_2.FractionCalculator.pdb
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\obj\Debug\_2.FractionCalculator.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\2. FractionCalculator\obj\Debug\_2.FractionCalculator.pdb

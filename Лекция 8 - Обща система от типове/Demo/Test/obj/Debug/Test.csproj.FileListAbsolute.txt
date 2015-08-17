@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\bin\Debug\Test.exe.config
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\bin\Debug\Test.exe
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\bin\Debug\Test.pdb
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\obj\Debug\Test.exe
+D:\SoftUni\ООП\Лекция 8 - Обща система от типове\Demo\Test\obj\Debug\Test.pdb

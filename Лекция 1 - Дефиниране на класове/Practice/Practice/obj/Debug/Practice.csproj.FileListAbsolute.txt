@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\bin\Debug\Practice.exe.config
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\bin\Debug\Practice.exe
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\bin\Debug\Practice.pdb
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\obj\Debug\Practice.exe
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\Practice\Practice\obj\Debug\Practice.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\OOP-Defining-Classes\Persons\bin\Debug\Persons.exe.config
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\OOP-Defining-Classes\Persons\bin\Debug\Persons.exe
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\OOP-Defining-Classes\Persons\bin\Debug\Persons.pdb
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\OOP-Defining-Classes\Persons\obj\Debug\Persons.exe
+D:\SoftUni\ООП\Лекция 1 - Дефиниране на класове\OOP-Defining-Classes\Persons\obj\Debug\Persons.pdb

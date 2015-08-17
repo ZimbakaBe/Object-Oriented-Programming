@@ -1,0 +1,8 @@
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.exe.config
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\obj\Debug\2.DistanceCalculator.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\obj\Debug\2.DistanceCalculator.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\1.Point3D.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\1.Point3D.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\2.DistanceCalculator\obj\Debug\2.DistanceCalculator.csprojResolveAssemblyReference.cache

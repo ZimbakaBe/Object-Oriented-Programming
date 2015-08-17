@@ -1,0 +1,1 @@
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\4.Namespaces\bin\Debug\4.Namespaces.exe.config

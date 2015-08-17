@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CustomLinqExtMeth", "1.CustomLinqExtMeth\1.CustomLinqExtMeth.csproj", "{81807596-5034-4765-BB42-8995BEEFDBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.InterestCalculator", "2.InterestCalculator\2.InterestCalculator.csproj", "{DA979072-F824-455D-B51F-3EC168271767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AsynchronousTimer", "3.AsynchronousTimer\3.AsynchronousTimer.csproj", "{93185494-191C-4D51-900C-413E0AB3E329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.StudentClass", "4.StudentClass\4.StudentClass.csproj", "{8779444D-F374-4F4A-905D-89E78AC12519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81807596-5034-4765-BB42-8995BEEFDBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81807596-5034-4765-BB42-8995BEEFDBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81807596-5034-4765-BB42-8995BEEFDBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81807596-5034-4765-BB42-8995BEEFDBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA979072-F824-455D-B51F-3EC168271767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA979072-F824-455D-B51F-3EC168271767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA979072-F824-455D-B51F-3EC168271767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA979072-F824-455D-B51F-3EC168271767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93185494-191C-4D51-900C-413E0AB3E329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93185494-191C-4D51-900C-413E0AB3E329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93185494-191C-4D51-900C-413E0AB3E329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93185494-191C-4D51-900C-413E0AB3E329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8779444D-F374-4F4A-905D-89E78AC12519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8779444D-F374-4F4A-905D-89E78AC12519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8779444D-F374-4F4A-905D-89E78AC12519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8779444D-F374-4F4A-905D-89E78AC12519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

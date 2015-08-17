@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\bin\Debug\3.GenericList.exe.config
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\bin\Debug\3.GenericList.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\bin\Debug\3.GenericList.pdb
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\obj\Debug\3.GenericList.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\obj\Debug\3.GenericList.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\3.GenericList\obj\Debug\3.GenericList.pdb

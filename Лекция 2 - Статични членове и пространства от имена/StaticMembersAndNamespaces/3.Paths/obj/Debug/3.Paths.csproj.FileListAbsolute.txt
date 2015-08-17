@@ -1,0 +1,8 @@
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.exe.config
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\bin\Debug\1.Point3D.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\bin\Debug\1.Point3D.pdb
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.exe
+D:\SoftUni\ООП\Лекция 2 - Статични членове и пространства от имена\StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.pdb

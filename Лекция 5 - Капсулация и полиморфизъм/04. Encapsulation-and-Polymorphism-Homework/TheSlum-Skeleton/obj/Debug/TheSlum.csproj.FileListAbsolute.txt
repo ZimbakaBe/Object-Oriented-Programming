@@ -1,0 +1,5 @@
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\SoftUni\ООП\Лекция 5 - Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

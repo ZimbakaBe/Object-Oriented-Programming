@@ -1,0 +1,6 @@
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\bin\Debug\1.GalacticGPS.exe.config
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\bin\Debug\1.GalacticGPS.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\bin\Debug\1.GalacticGPS.pdb
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\obj\Debug\1.GalacticGPS.csprojResolveAssemblyReference.cache
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\obj\Debug\1.GalacticGPS.exe
+D:\SoftUni\ООП\Лекция 6 - Други типове\OtherTypes\1.GalacticGPS\obj\Debug\1.GalacticGPS.pdb
